@@ -6,3 +6,4 @@
 + 标签表 t\_labels
 + 发送记录表 t\_dispatching
 + 待发送记录表 t\_pre\_dispatching (可能不需要)
++ 订阅表 t\_subcribe
