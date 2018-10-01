@@ -1,6 +1,7 @@
 # 台湾环岛之旅
 
 ## 路线
+![路线图](https://raw.githubusercontent.com/huangjian-php/SomeDocs/master/20181002014914.png)
 1. 桃源机场
 1. 台湾联通停车场-华泰王子场 104台湾台北市中山區林森北路359號
 2. 朝富停车场 407台湾台中市西屯区
@@ -23,7 +24,6 @@
 19. 224台湾新北市瑞芳區基山街200號
 20. Spring City Resort 台湾台北市北投區112
 21. 桃源机场
-![路线图](https://raw.githubusercontent.com/huangjian-php/SomeDocs/master/20181002014914.png)
 
 ## 台北-10.04
 
