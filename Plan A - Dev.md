@@ -23,11 +23,13 @@
 19. 224台湾新北市瑞芳區基山街200號
 20. Spring City Resort 台湾台北市北投區112
 21. 桃源机场
+<br />
+![路线图](https://z1.muscache.cn/im/pictures/180313ae-d919-4fa9-8f57-9b21e8665f97.jpg?aki_policy=x_large)
 
 ## 台北-10.04
 
 ### 住
-+ 民宿Via Hotel Loft
++ 民宿Via Hotel Loft<br />
     ![民宿Via Hotel Loft](https://z1.muscache.cn/im/pictures/180313ae-d919-4fa9-8f57-9b21e8665f97.jpg?aki_policy=x_large)
 
 ### 玩
@@ -60,6 +62,10 @@
 ### 玩
 + 驳二艺术园区<br />
     ![驳二艺术园区](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1536777546161&di=3fdbf09a1362c80a78a3029fa8f61640&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180726%2Fd48dc07acc54450cb643c3fcb5e59a30.jpeg)
++ 西子湾
+    ![西子湾](https://img1.qunarzz.com/travel/d4/1712/6b/d90e9a2324da9fb5.jpg_r_720x480x95_3083547a.jpg)
+
+### 住
 + 碧港良居商旅（西子湾）<br />
     ![碧港良居商旅](http://dimg10.c-ctrip.com/images/20090a0000004t51n0697_R_550_412.jpg)<br />
 
@@ -79,11 +85,8 @@
 ### 玩
 + 清水断崖<br />
     ![清水断崖](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1536948836557&di=a76b1a256c5ef84a3a28da3878161506&imgtype=0&src=http%3A%2F%2Fyouimg1.c-ctrip.com%2Ftarget%2Ffd%2Ftg%2Fg3%2FM04%2FEC%2FA6%2FCggYGVYppv6AMAIDAAIVJWEtAjw859.jpg)
-+ 太鲁阁国家风景区<br />
-    ![太鲁阁国家风景区](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1536948952305&di=72cd125007c373208a0d7d87736b1033&imgtype=0&src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fupload%2Fupc%2Ftx%2Fphotoblog%2F1504%2F19%2Fc12%2F5648669_1429436244869.jpg)
 + 七星潭<br />
     ![七星潭](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1536949222988&di=f58510fcd6033ec96abfe79a154fda48&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3Dfb9da8fc3cd12f2eda08a62327abbf17%2Fb8389b504fc2d562054419c6ed1190ef76c66c49.jpg)
-+ 滑翔伞、热气球
 
 ## 九份-10.09
 
@@ -101,7 +104,6 @@
     ![九份老街](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1538337654903&di=f593ec0478ea28c6d6b594c43480093e&imgtype=0&src=http%3A%2F%2Fyouimg1.c-ctrip.com%2Ftarget%2Ftg%2F833%2F309%2F109%2Fc90588e4dea3431486a651e2dfec6ce5.jpg)
 
 ## 北投温泉-10.10
-
 
 ### 住
 + 北投春天酒店<br />
